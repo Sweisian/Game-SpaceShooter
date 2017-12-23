@@ -2,7 +2,7 @@
 
 Simple top-down wave-based shooting game I developed to learn Unity and C#. This is the most advanced project I have completed to date. 2017-2018. <br/>
 
-##If you are looking for code samples, they are in a folder listed "CODE SAMPLES"
+If you are looking for code samples, they are in a folder listed "CODE SAMPLES"
 
 ## About
 **Title**: Simple Space Shooter
